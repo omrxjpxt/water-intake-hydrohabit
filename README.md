@@ -1,4 +1,4 @@
-# 💧 Water Intake Tracker App
+# 💧 Water Intake Tracker App 
 
 A simple and clean web app to track daily water intake and build healthy hydration habits. Very optimised as well as interactive.
 
