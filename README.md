@@ -21,5 +21,4 @@ A simple and clean web app to track daily water intake and build healthy hydrati
 ## 🌟 Future Improvements
 - Notifications/reminders
 - Progress analytics
-- Mobile app version
-- More optimised 
+
